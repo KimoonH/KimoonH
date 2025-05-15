@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&textGood%20to%20see%20you%20%F0%9F%A4%97&fontSize=90)
 
